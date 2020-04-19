@@ -2,9 +2,9 @@
 *.ini
 
 CORONA/Saved/AutoScreenshot.png
-CORONA/Saved/Config/**
+CORONA/Saved/Config/*
 CORONA/Saved/Config/Windows/Engine.ini
-
+CORONA/Intermediate/ChachedAssetRegistry.bin
 
 # Visual Studio 2015 user specific files
 .vs/
