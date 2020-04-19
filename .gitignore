@@ -1,3 +1,9 @@
+*.log
+*.ini
+
+Config/*
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
