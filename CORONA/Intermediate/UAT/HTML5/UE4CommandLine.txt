@@ -1,0 +1,1 @@
+../../../CORONA/CORONA.uproject  /Game/StarterContent/Levels/PrototypeMap -Messaging -SessionId=BA4E5B5E4ABB30213F9D1183B0874522 -SessionOwner="Richard" -SessionName="Launch On Device" -iterative
